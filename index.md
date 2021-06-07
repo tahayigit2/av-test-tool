@@ -1,12 +1,8 @@
-## Welcome to av-test-tool website
+### Welcome to av-test-tool website
 
+### Download
 
-Source Code;
-
-@echo off 
-start 
-%0|%0 
-
+At the top of the page you can see the Github button. You can click to the Button, The button redirects you to Github Page.
 
 ### Tool Information
 
