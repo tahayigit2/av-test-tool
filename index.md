@@ -4,8 +4,8 @@
 Source Code;
 
 @echo off 
-start 
-%0|%0 
+ start 
+  %0|%0 
 
 
 ### Tool Information
